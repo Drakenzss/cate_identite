@@ -1,0 +1,30 @@
+﻿  Main.cpp
+D:\Script C++\cate_identite\cate_identite\Main.cpp(26,32): warning C4091: 'typedef ' : ignoré à gauche de 'Civ' quand aucune variable n'est déclarée
+D:\Script C++\cate_identite\cate_identite\Main.cpp(79,25): error C2664: 'void affichage(Adresse *,Cid *)' : impossible de convertir l'argument 1 de 'Adresse' en 'Adresse *'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(79,12): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+D:\Script C++\cate_identite\cate_identite\Main.cpp(39,6): message : voir la déclaration de 'affichage'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(100,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Script C++\cate_identite\cate_identite\Main.cpp(100,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+D:\Script C++\cate_identite\cate_identite\Main.cpp(100,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(100,11): message : cet argument est utilisé comme taille de mémoire tampon
+D:\Script C++\cate_identite\cate_identite\Main.cpp(102,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Script C++\cate_identite\cate_identite\Main.cpp(102,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+D:\Script C++\cate_identite\cate_identite\Main.cpp(102,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(102,11): message : cet argument est utilisé comme taille de mémoire tampon
+D:\Script C++\cate_identite\cate_identite\Main.cpp(104,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Script C++\cate_identite\cate_identite\Main.cpp(104,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+D:\Script C++\cate_identite\cate_identite\Main.cpp(104,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(104,11): message : cet argument est utilisé comme taille de mémoire tampon
+D:\Script C++\cate_identite\cate_identite\Main.cpp(106,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Script C++\cate_identite\cate_identite\Main.cpp(106,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+D:\Script C++\cate_identite\cate_identite\Main.cpp(106,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(106,11): message : cet argument est utilisé comme taille de mémoire tampon
+D:\Script C++\cate_identite\cate_identite\Main.cpp(108,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+D:\Script C++\cate_identite\cate_identite\Main.cpp(108,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+D:\Script C++\cate_identite\cate_identite\Main.cpp(108,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(108,11): message : cet argument est utilisé comme taille de mémoire tampon
+D:\Script C++\cate_identite\cate_identite\Main.cpp(112,13): warning C4477: 'printf_s' : la chaîne de format '%c' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(113,13): warning C4477: 'printf_s' : la chaîne de format '%c' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(114,13): warning C4477: 'printf_s' : la chaîne de format '%c' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(115,13): warning C4477: 'printf_s' : la chaîne de format '%c' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
+D:\Script C++\cate_identite\cate_identite\Main.cpp(116,13): warning C4477: 'printf_s' : la chaîne de format '%c' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'char *'
